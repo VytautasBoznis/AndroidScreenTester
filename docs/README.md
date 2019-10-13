@@ -7,3 +7,9 @@ Pagrindinis darbo akcentas yra algoritmas leidžiantis nustatyti aplikacijoje es
 Projektas yra grindžiamas laisvai prieinama programine įranga.
 
 ## Automated visual test method and tool for Android or web application user interface testing
+
+The goal of this project is to maximize the total amount of possible test in an Android application by providing as many screenshots of screens as posible in various configurations and states. In the final roject verson a user will be able to configure on what devices he would like to perform the screenshot tests and will receive an email message when the job is done. That will free up the time of a developer or a QA specialist or will provide a way to automate UI tests.
+
+The main focus of this project is an algorith that will be able to find the maximum amout of posible screen states with a standart user action sequence. To be able to acheave this the sistem should be able to emulate a standart user environment and use it to get further in the application. For this to be achieved an overview of current solutions should be done and a way to find the maximum amount of screen states should be created. And also this system shoud alow a user to automate his test on a set amount of devices.
+
+The project is based on open source software.
