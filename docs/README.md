@@ -1,4 +1,4 @@
-#Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
+## Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
     	
 Darbo tikslas yra padidinti galimų atlikti testų kieki „Android“ aplikacijoje pasinaudojant automatine sistema kuri sukuria didžiausia įmanomą kieki aplikacijos langų nuotraukų skirtingose būsenose ir konfigūracijose. Galutinėje sistemoje vartotojas galės sukonfigūruoti kokiems emuliuojamiems įrenginiams atlikti automatinio tikrinimo funkcijas ir gaus pranešimą kuomet sistema įgyvendins užklausą. Tai leis vartotojui sutaupyti laiko atliekant vartotojo sąsajos testus, ar juos automatizuoti.
 
@@ -6,4 +6,4 @@ Pagrindinis darbo akcentas yra algoritmas leidžiantis nustatyti aplikacijoje es
 
 Projektas yra grindžiamas laisvai prieinama programine įranga.
 
-#Automated visual test method and tool for Android or web application user interface testing
+## Automated visual test method and tool for Android or web application user interface testing
