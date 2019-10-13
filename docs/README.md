@@ -1,7 +1,9 @@
-- [1 semestras/1st semester](https://ovidijusstukas.github.io/LoRa-smart-lock/pirmas_semestras)
-- [2 semestras/2nd semester](https://ovidijusstukas.github.io/LoRa-smart-lock/antras_semestras)
-- [3 semestras/3rd semester](https://ovidijusstukas.github.io/LoRa-smart-lock/trecias_semestras)
-- [4 semestras/4th semester](https://ovidijusstukas.github.io/LoRa-smart-lock/ketvirtas_semestras)
+#Meniu
+
+- [1 semestras/1st semester](https://vytautasboznis.github.io/AndroidScreenTester/pirmas_semestras)
+- [2 semestras/2nd semester](https://vytautasboznis.github.io/AndroidScreenTester/antras_semestras)
+- [3 semestras/3rd semester](https://vytautasboznis.github.io/AndroidScreenTester/trecias_semestras)
+- [4 semestras/4th semester](https://vytautasboznis.github.io/AndroidScreenTester/ketvirtas_semestras)
 
 # Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
 
