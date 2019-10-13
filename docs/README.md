@@ -8,8 +8,8 @@
 # Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
 
 ## Asmenys
- - *Šarūnas Packevičius* sarunas@ieee.org Projekto vadovas
- - *Vytautas Božnis* vytautas.boznis@gmail.com Kurėjas
+ - *Šarūnas Packevičius* ( sarunas@ieee.org ) Projekto vadovas
+ - *Vytautas Božnis* ( vytautas.boznis@gmail.com ) Kurėjas
         
 Darbo tikslas yra padidinti galimų atlikti testų kieki „Android“ aplikacijoje pasinaudojant automatine sistema kuri sukuria didžiausia įmanomą kieki aplikacijos langų nuotraukų skirtingose būsenose ir konfigūracijose. Galutinėje sistemoje vartotojas galės sukonfigūruoti kokiems emuliuojamiems įrenginiams atlikti automatinio tikrinimo funkcijas ir gaus pranešimą kuomet sistema įgyvendins užklausą. Tai leis vartotojui sutaupyti laiko atliekant vartotojo sąsajos testus, ar juos automatizuoti.
 
@@ -20,8 +20,8 @@ Projektas yra grindžiamas laisvai prieinama programine įranga.
 # Automated visual test method and tool for Android or web application user interface testing
 
 ## Project related people
- - *Šarūnas Packevičius* sarunas@ieee.org Project supervisor
- - *Vytautas Božnis* vytautas.boznis@gmail.com Developer
+ - *Šarūnas Packevičius* ( sarunas@ieee.org ) Project supervisor
+ - *Vytautas Božnis* ( vytautas.boznis@gmail.com ) Developer
 
 The goal of this project is to maximize the total amount of possible test in an Android application by providing as many screenshots of screens as posible in various configurations and states. In the final roject verson a user will be able to configure on what devices he would like to perform the screenshot tests and will receive an email message when the job is done. That will free up the time of a developer or a QA specialist or will provide a way to automate UI tests.
 
