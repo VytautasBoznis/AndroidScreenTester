@@ -1,0 +1,8 @@
+# Meniu
+
+- [Pradžia / Start](https://vytautasboznis.github.io/AndroidScreenTester)
+- [1 semestras/1nd semester](https://vytautasboznis.github.io/AndroidScreenTester/pirmas_semestras)
+- [2 semestras/2rd semester](https://vytautasboznis.github.io/AndroidScreenTester/antras_semestras)
+- [4 semestras/4th semester](https://vytautasboznis.github.io/AndroidScreenTester/ketvirtas_semestras)
+
+### Dokumentai

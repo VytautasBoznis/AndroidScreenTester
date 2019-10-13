@@ -1,13 +1,8 @@
-### Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
+# Meniu
 
-## Asmenys
+- [Pradžia / Start](https://vytautasboznis.github.io/AndroidScreenTester)
+- [2 semestras/2nd semester](https://vytautasboznis.github.io/AndroidScreenTester/antras_semestras)
+- [3 semestras/3rd semester](https://vytautasboznis.github.io/AndroidScreenTester/trecias_semestras)
+- [4 semestras/4th semester](https://vytautasboznis.github.io/AndroidScreenTester/ketvirtas_semestras)
 
-	- *Šarūnas Packevičius* Projekto vadovas
-	- *Vytautas Božnis* Kurėjas
-
-### Automated visual test method and tool for Android or web application user interface testing
-
-## Project related people
-
-	- *Šarūnas Packevičius* Project supervisor
-	- *Vytautas Božnis* Developer
+### Dokumentai
