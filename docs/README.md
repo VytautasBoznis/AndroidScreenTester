@@ -1,3 +1,8 @@
+- [1 semestras/1st semester](https://ovidijusstukas.github.io/LoRa-smart-lock/pirmas_semestras)
+- [2 semestras/2nd semester](https://ovidijusstukas.github.io/LoRa-smart-lock/antras_semestras)
+- [3 semestras/3rd semester](https://ovidijusstukas.github.io/LoRa-smart-lock/trecias_semestras)
+- [4 semestras/4th semester](https://ovidijusstukas.github.io/LoRa-smart-lock/ketvirtas_semestras)
+
 # Automatinės vizualaus testavimo paslaugos metodas ir įrankis skirtas Android arba web programėlėse rasti vartotojo sąsajos problemas
 
 ## Asmenys
