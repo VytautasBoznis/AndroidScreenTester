@@ -1,9 +1,3 @@
----
-layout: page
-title: V. Božnio magistro darbas
-permalinks: /pirmas_semestras
-permalinks: /antras_semestras
-permalinks: /trecias_semestras
-permalinks: /ketvirtas_semestras
+title: Android Screen Tester
 theme: jekyll-theme-cayman
----
+permalink: /:title/
